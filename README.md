@@ -107,9 +107,6 @@ I'm building projects as part of my journey into mobile app development.
 ### 🚧 Currently Building
 
 * 📱 Flutter practice applications
-* ⏱️ Productivity & Focus applications
-* 🧩 Small utility apps
-* 🚀 Real-world mobile application ideas
 
 More projects coming soon...
 
@@ -119,9 +116,13 @@ More projects coming soon...
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ezzeldinihab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<a href="https://github.com/YOUR_USERNAME">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzeldinihab&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</a>
 
 </div>
 
