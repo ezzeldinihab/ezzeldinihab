@@ -28,9 +28,9 @@ I enjoy turning ideas into simple, useful, and well-designed mobile applications
 
 * 📱 Currently learning **Flutter**
 * 💙 Building my foundation in **Dart**
-* 🧩 Learning how to build real-world mobile applications
+* 🧩 Learning how to build mobile applications
 * 🎨 Interested in clean and user-friendly UI
-* 🧠 Improving my problem-solving and programming skills
+* 🧠 Improving my programming and problem-solving skills
 * 🔨 Learning by building projects and experimenting
 * 🌱 Continuously improving my development skills
 
@@ -64,13 +64,10 @@ class EzzeldinIhab {
     "Flutter",
     "UI Development",
     "Responsive Design",
-    "State Management",
-    "APIs & Networking",
-    "Firebase",
   ];
 
   final String goal =
-      "Build useful mobile applications and become a strong Flutter Developer";
+      "Build useful mobile applications and grow as a Flutter Developer";
 }
 ```
 
@@ -78,24 +75,20 @@ class EzzeldinIhab {
 
 ## 🔨 What I'm Working On
 
-I'm currently focused on learning by **building projects**, not just watching tutorials.
+I'm focused on learning by **building projects**, not just watching tutorials.
 
 ```text
 Dart
   ↓
 Flutter Fundamentals
   ↓
-UI & Responsive Design
+UI Development
   ↓
-State Management
+Responsive Design
   ↓
-APIs & Networking
+Build Projects
   ↓
-Local Storage & Databases
-  ↓
-Firebase
-  ↓
-Real-world Applications
+Learn & Improve
 ```
 
 ---
@@ -116,16 +109,30 @@ More projects coming soon...
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ezzeldinihab&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://github.com/ezzeldinihab">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzeldinihab&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ezzeldinihab&theme=nord_dark" width="32.5%" alt="GitHub Stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ezzeldinihab&theme=nord_dark" width="32.5%" alt="Repositories per Language">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ezzeldinihab&theme=nord_dark" width="32.5%" alt="Most Commit Language">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ezzeldinihab&theme=nord_dark" width="100%" alt="GitHub Profile Details">
+
+</details>
+
+<hr>
 
 </div>
 
-
 ---
 
-📈 GitHub Contributions
+## 🔥 GitHub Streak
 
 <div align="center">
 
