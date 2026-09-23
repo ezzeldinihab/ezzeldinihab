@@ -115,27 +115,23 @@ More projects coming soon...
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/ezzeldinihab">
+<img src="https://github-readme-stats.vercel.app/api?username=ezzeldinihab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ezzeldinihab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzeldinihab&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezzeldinihab&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+📈 GitHub Contributions
 
 <div align="center">
 
-[![Ezzeldin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ezzeldinihab\&theme=tokyo-night)](https://github.com/ezzeldinihab)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ezzeldinihab&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
